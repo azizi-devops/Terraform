@@ -74,7 +74,7 @@ It provisions and manages:
 ---
 
 ## 📂 Source Code
-- [Terraform Project Repository](https://github.com/azizi-devops/Terraform/edit/main)
+- [Terraform Project Repository](https://github.com/azizi-devops/Terraform/)
 
 ---
 
